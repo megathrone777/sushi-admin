@@ -31,11 +31,11 @@
     "ingredients": {
       "type": "text"
     },
-    "price": {
-      "type": "string"
-    },
     "allergeny": {
       "type": "string"
+    },
+    "price": {
+      "type": "integer"
     }
   }
 }
