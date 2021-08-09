@@ -36,6 +36,9 @@
     },
     "price": {
       "type": "integer"
+    },
+    "priority": {
+      "type": "integer"
     }
   }
 }
