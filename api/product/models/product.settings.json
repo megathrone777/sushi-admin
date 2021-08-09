@@ -39,6 +39,9 @@
     },
     "priority": {
       "type": "integer"
+    },
+    "product_category": {
+      "model": "product-category"
     }
   }
 }
