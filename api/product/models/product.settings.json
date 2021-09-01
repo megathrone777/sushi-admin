@@ -23,7 +23,8 @@
         "videos"
       ],
       "plugin": "upload",
-      "required": false
+      "required": false,
+      "pluginOptions": {}
     },
     "weight": {
       "type": "string"
@@ -42,6 +43,9 @@
     },
     "product_category": {
       "model": "product-category"
+    },
+    "additionals": {
+      "collection": "additional"
     }
   }
 }
