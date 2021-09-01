@@ -49,6 +49,10 @@
     },
     "product_modifiers": {
       "collection": "product-modifiers"
+    },
+    "Slug": {
+      "type": "uid",
+      "targetField": "title"
     }
   }
 }
