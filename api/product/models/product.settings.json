@@ -50,7 +50,7 @@
     "product_modifiers": {
       "collection": "product-modifiers"
     },
-    "Slug": {
+    "slug": {
       "type": "uid",
       "targetField": "title"
     }
