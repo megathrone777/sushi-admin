@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/product-submodifiers",
+      "handler": "product-submodifier.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/product-submodifiers/count",
+      "handler": "product-submodifier.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/product-submodifiers/:id",
+      "handler": "product-submodifier.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/product-submodifiers",
+      "handler": "product-submodifier.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/product-submodifiers/:id",
+      "handler": "product-submodifier.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/product-submodifiers/:id",
+      "handler": "product-submodifier.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
