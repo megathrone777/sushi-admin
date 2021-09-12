@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/modal",
+      "handler": "modal.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/modal",
+      "handler": "modal.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/modal",
+      "handler": "modal.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
