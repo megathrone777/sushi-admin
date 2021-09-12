@@ -41,9 +41,6 @@
     "priority": {
       "type": "integer"
     },
-    "product_category": {
-      "model": "product-category"
-    },
     "additionals": {
       "collection": "additional"
     },
