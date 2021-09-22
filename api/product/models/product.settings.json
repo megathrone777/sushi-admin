@@ -53,6 +53,10 @@
     },
     "persons": {
       "type": "integer"
+    },
+    "isRoll": {
+      "type": "boolean",
+      "default": false
     }
   }
 }
