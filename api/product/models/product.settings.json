@@ -50,6 +50,9 @@
     "slug": {
       "type": "uid",
       "targetField": "title"
+    },
+    "persons": {
+      "type": "integer"
     }
   }
 }
