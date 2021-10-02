@@ -58,16 +58,6 @@
       "via": "users",
       "plugin": "users-permissions",
       "configurable": false
-    },
-    "shopIsClosed": {
-      "type": "boolean",
-      "default": false,
-      "private": false
-    },
-    "pin": {
-      "type": "integer",
-      "default": 6334,
-      "private": true
     }
   }
 }

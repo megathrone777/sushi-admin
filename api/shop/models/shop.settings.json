@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "shops",
+  "info": {
+    "name": "Shop"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "shopIsClosed": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}
