@@ -21,6 +21,11 @@
     "price": {
       "type": "integer",
       "required": true
+    },
+    "comgatePaymentStatus": {
+      "type": "string",
+      "default": "PENDING",
+      "required": true
     }
   }
 }
