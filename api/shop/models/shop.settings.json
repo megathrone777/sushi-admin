@@ -2,7 +2,8 @@
   "kind": "singleType",
   "collectionName": "shops",
   "info": {
-    "name": "Shop"
+    "name": "Shop",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -14,6 +15,9 @@
     "shopIsClosed": {
       "type": "boolean",
       "default": false
+    },
+    "ordersStop": {
+      "type": "boolean"
     }
   }
 }
