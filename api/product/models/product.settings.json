@@ -51,10 +51,15 @@
       "type": "uid",
       "targetField": "title"
     },
-    "persons": {
-      "type": "integer"
-    },
     "isRoll": {
+      "type": "boolean",
+      "default": false
+    },
+    "isSalat": {
+      "type": "boolean",
+      "default": false
+    },
+    "isDrink": {
       "type": "boolean",
       "default": false
     }
