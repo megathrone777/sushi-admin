@@ -26,6 +26,14 @@
       "type": "string",
       "default": "PENDING",
       "required": true
+    },
+    "phone": {
+      "type": "integer",
+      "required": true
+    },
+    "email": {
+      "type": "string",
+      "required": true
     }
   }
 }
