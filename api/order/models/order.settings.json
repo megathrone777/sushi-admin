@@ -27,11 +27,11 @@
       "default": "PENDING",
       "required": true
     },
-    "phone": {
-      "type": "integer",
+    "email": {
+      "type": "string",
       "required": true
     },
-    "email": {
+    "phone": {
       "type": "string",
       "required": true
     }
