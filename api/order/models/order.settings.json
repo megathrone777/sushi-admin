@@ -34,6 +34,33 @@
     "phone": {
       "type": "string",
       "required": true
+    },
+    "cutleryAmount": {
+      "type": "integer",
+      "required": true
+    },
+    "products": {
+      "type": "json",
+      "required": true
+    },
+    "additionals": {
+      "type": "json",
+      "required": true
+    },
+    "address": {
+      "type": "string"
+    },
+    "paymetType": {
+      "type": "enumeration",
+      "enum": [
+        "card",
+        "cash"
+      ],
+      "default": "card",
+      "required": true
+    },
+    "note": {
+      "type": "string"
     }
   }
 }
