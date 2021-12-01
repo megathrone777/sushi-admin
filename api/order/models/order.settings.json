@@ -65,6 +65,10 @@
     "modifiers": {
       "type": "json",
       "required": false
+    },
+    "deliveryPrice": {
+      "type": "integer",
+      "required": false
     }
   }
 }
