@@ -50,15 +50,6 @@
     "address": {
       "type": "string"
     },
-    "paymetType": {
-      "type": "enumeration",
-      "enum": [
-        "card",
-        "cash"
-      ],
-      "default": "card",
-      "required": true
-    },
     "note": {
       "type": "string"
     },
@@ -69,6 +60,16 @@
     "deliveryPrice": {
       "type": "integer",
       "required": false
+    },
+    "paymentType": {
+      "type": "enumeration",
+      "enum": [
+        "card",
+        "cash",
+        "cardPickup",
+        "cardCourier"
+      ],
+      "required": true
     }
   }
 }
