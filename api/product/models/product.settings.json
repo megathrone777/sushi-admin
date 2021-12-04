@@ -62,6 +62,12 @@
     "isDrink": {
       "type": "boolean",
       "default": false
+    },
+    "isPoke": {
+      "type": "boolean"
+    },
+    "isSet": {
+      "type": "boolean"
     }
   }
 }
