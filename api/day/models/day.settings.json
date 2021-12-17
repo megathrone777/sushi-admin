@@ -22,6 +22,9 @@
     "Day": {
       "type": "string",
       "private": false
+    },
+    "Title": {
+      "type": "string"
     }
   }
 }
