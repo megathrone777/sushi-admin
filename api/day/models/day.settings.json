@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "Calendar",
+  "info": {
+    "name": "Day",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Active": {
+      "type": "boolean",
+      "default": false
+    },
+    "Schedule": {
+      "type": "richtext"
+    },
+    "Day": {
+      "type": "string",
+      "private": false
+    }
+  }
+}
