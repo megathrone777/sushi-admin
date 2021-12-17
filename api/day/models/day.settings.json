@@ -12,18 +12,18 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Active": {
+    "active": {
       "type": "boolean",
       "default": false
     },
-    "Schedule": {
+    "schedule": {
       "type": "richtext"
     },
-    "Day": {
+    "day": {
       "type": "string",
       "private": false
     },
-    "Title": {
+    "title": {
       "type": "string"
     }
   }
