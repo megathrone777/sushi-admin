@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/shop-is-closed",
+      "handler": "shop-is-closed.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/shop-is-closed",
+      "handler": "shop-is-closed.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/shop-is-closed",
+      "handler": "shop-is-closed.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

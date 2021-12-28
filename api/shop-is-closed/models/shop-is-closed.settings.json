@@ -1,9 +1,8 @@
 {
-  "kind": "collectionType",
-  "collectionName": "Calendar",
+  "kind": "singleType",
+  "collectionName": "shop_is_closeds",
   "info": {
-    "name": "Day",
-    "description": ""
+    "name": "ShopIsClosed"
   },
   "options": {
     "increments": true,
@@ -16,7 +15,7 @@
       "type": "datetime"
     },
     "timeTo": {
-      "type": "datetime"
+      "type": "time"
     }
   }
 }
