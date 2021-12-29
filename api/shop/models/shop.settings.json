@@ -12,10 +12,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "shopIsClosed": {
-      "type": "boolean",
-      "default": false
-    },
     "ordersStop": {
       "type": "boolean"
     }

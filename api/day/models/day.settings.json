@@ -13,10 +13,10 @@
   "pluginOptions": {},
   "attributes": {
     "timeFrom": {
-      "type": "datetime"
+      "type": "time"
     },
     "timeTo": {
-      "type": "datetime"
+      "type": "time"
     }
   }
 }
