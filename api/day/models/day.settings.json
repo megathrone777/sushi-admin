@@ -17,6 +17,11 @@
     },
     "timeTo": {
       "type": "time"
+    },
+    "dayOrder": {
+      "type": "integer",
+      "required": true,
+      "unique": true
     }
   }
 }
