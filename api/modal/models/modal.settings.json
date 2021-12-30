@@ -19,7 +19,7 @@
     "text": {
       "pluginOptions": {
         "i18n": {
-          "localized": true
+          "localized": false
         }
       },
       "type": "richtext"
@@ -27,7 +27,7 @@
     "title": {
       "pluginOptions": {
         "i18n": {
-          "localized": true
+          "localized": false
         }
       },
       "type": "string",
