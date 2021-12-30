@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "modal_days",
+  "info": {
+    "name": "modalDay"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "text": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

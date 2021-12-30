@@ -2,24 +2,24 @@
   "routes": [
     {
       "method": "GET",
-      "path": "/modal",
-      "handler": "modal.find",
+      "path": "/modal-day",
+      "handler": "modal-day.find",
       "config": {
         "policies": []
       }
     },
     {
       "method": "PUT",
-      "path": "/modal",
-      "handler": "modal.update",
+      "path": "/modal-day",
+      "handler": "modal-day.update",
       "config": {
         "policies": []
       }
     },
     {
       "method": "DELETE",
-      "path": "/modal",
-      "handler": "modal.delete",
+      "path": "/modal-day",
+      "handler": "modal-day.delete",
       "config": {
         "policies": []
       }
