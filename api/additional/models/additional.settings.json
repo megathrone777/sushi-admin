@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "additionals",
+  "collectionName": "additional",
   "info": {
-    "name": "Additional sauces",
+    "name": "Additional sauce",
     "description": ""
   },
   "options": {

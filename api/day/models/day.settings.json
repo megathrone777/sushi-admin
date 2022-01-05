@@ -2,7 +2,7 @@
   "kind": "collectionType",
   "collectionName": "Calendar",
   "info": {
-    "name": "Day",
+    "name": "Open hour",
     "description": ""
   },
   "options": {
