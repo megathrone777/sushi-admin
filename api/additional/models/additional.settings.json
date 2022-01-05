@@ -2,13 +2,15 @@
   "kind": "collectionType",
   "collectionName": "additionals",
   "info": {
-    "name": "additional"
+    "name": "Additional sauces",
+    "description": ""
   },
   "options": {
     "increments": true,
     "timestamps": true,
     "draftAndPublish": true
   },
+  "pluginOptions": {},
   "attributes": {
     "title": {
       "type": "string"
