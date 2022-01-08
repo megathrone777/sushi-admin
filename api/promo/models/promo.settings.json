@@ -18,6 +18,10 @@
     },
     "percent": {
       "type": "integer"
+    },
+    "isActivated": {
+      "type": "boolean",
+      "default": false
     }
   }
 }
