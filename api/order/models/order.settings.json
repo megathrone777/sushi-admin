@@ -70,6 +70,9 @@
         "cardCourier"
       ],
       "required": true
+    },
+    "dayCreated": {
+      "type": "string"
     }
   }
 }
