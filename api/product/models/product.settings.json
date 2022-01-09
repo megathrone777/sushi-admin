@@ -68,6 +68,12 @@
     },
     "isSet": {
       "type": "boolean"
+    },
+    "isCaviar": {
+      "type": "boolean"
+    },
+    "isSoup": {
+      "type": "boolean"
     }
   }
 }
