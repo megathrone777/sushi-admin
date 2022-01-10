@@ -19,7 +19,7 @@
     "percent": {
       "type": "integer"
     },
-    "isActivated": {
+    "isApplied": {
       "type": "boolean",
       "default": false
     }
