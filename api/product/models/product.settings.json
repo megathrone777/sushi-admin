@@ -74,6 +74,9 @@
     },
     "isSoup": {
       "type": "boolean"
+    },
+    "cutleryAmountPaid": {
+      "type": "integer"
     }
   }
 }
