@@ -73,6 +73,9 @@
     },
     "dayCreated": {
       "type": "string"
+    },
+    "cutleryAmountPaid": {
+      "type": "integer"
     }
   }
 }
