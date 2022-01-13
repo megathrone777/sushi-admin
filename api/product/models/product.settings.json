@@ -55,7 +55,7 @@
       "type": "boolean",
       "default": false
     },
-    "isSalat": {
+    "isStarter": {
       "type": "boolean",
       "default": false
     },
