@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "modal_orders",
+  "info": {
+    "name": "modalOrders",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "richtext"
+    }
+  }
+}
